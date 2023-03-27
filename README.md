@@ -2,7 +2,7 @@
 
 This guide has step by step explanations of  deploying Java Spring Boot projects using Docker on AWS.
 
-## Prerequisites, while this guide is mostly geared at windows uses i also include some commands for unix users
+## Prerequisites, while this guide is mostly geared at windows users i also include some commands for unix users
 
 
 - An AWS account
